@@ -1,4 +1,4 @@
 # Samsara
 This is my first repository.
 
-- From Rahul Kumar Chaurasiya
+- From Rahul Chaurasiya
