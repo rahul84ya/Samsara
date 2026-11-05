@@ -1,0 +1,6 @@
+{
+  "name": "Dhara",
+  "description": "Andhra Pradesh Land Records & MeeBhoomi portal viewer for Adangal, Pahani, ROR 1-B, and FMB cadastral survey maps with LGD directory integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
